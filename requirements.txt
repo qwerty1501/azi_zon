@@ -1,0 +1,8 @@
+Django
+Pillow
+django-rest-swagger
+django-cors-headers
+drf-yasg
+django-cloudinary-storage
+djangorestframework
+coreschema
